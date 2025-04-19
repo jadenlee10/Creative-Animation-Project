@@ -1,0 +1,4 @@
+OldMan.png from adobe.com
+Lebron.png from https://ar.inspiredpencil.com/pictures-2023/lebron-james-portrait
+
+Used ChatGPT for debugging LeBron.java and OldMan.java
